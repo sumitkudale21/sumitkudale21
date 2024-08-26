@@ -34,9 +34,6 @@ I'm always open to interesting projects and collaborations. Feel free to reach o
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitkudale21&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkudale21&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sumitkudale21&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sumitkudale21&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
