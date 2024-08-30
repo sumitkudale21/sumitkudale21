@@ -6,7 +6,7 @@ Aspiring Data Scientist passionate about turning data into actionable insights. 
 ## 🚀 Projects
 Here are some of the key projects I've worked on:
 
-- **[Customer Churn Prediction](https://github.com/yourusername/customer-churn-prediction):** Developed a predictive model to identify customers at risk of churn using machine learning techniques. Tools used: Python, Scikit-Learn, Pandas, Matplotlib.
+- **[Customer Churn Prediction](https://github.com/sumitkudale21/customer_churn_prediction):** Developed a predictive model to identify customers at risk of churn using machine learning techniques. Tools used: Python, Scikit-Learn, Pandas, Matplotlib.
 - **[House Price Prediction](https://github.com/yourusername/house-price-prediction):** Built a web application using Flask to predict house prices based on various features. Tools used: Python, Flask, Scikit-Learn, NGINX.
 - **[SMS Spam Classifier](https://github.com/yourusername/sms-spam-classifier):** Created a machine learning model to classify SMS messages as spam or ham. Tools used: Python, Scikit-Learn, NLTK, Pandas.
 - **[Mobile Price Prediction](https://github.com/yourusername/mobile-price-prediction):** Developed a machine learning model to predict mobile phone prices based on various features. Tools used: Python, Scikit-Learn, Streamlit.
