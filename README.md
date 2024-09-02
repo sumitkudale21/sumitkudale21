@@ -7,7 +7,7 @@ Aspiring Data Scientist passionate about turning data into actionable insights. 
 Here are some of the key projects I've worked on:
 
 - **[Customer Churn Prediction](https://github.com/sumitkudale21/customer_churn_prediction):** Developed a predictive model to identify customers at risk of churn using machine learning techniques. Tools used: Python, Scikit-Learn, Pandas, Matplotlib.
-- **[House Price Prediction](https://github.com/sumitkudale21/house-prediction-project):** Built a web application using Flask to predict house prices based on various features. Tools used: Python, Flask, Scikit-Learn, NGINX.
+- **[Cold Email Generator]([https://github.com/sumitkudale21/house-prediction-project](https://github.com/sumitkudale21/cold-email-generation-tool)):** Built a web application using Streamlit to generate email based on user input(job desciption link). Tools used: Python, groq, llama3, langchain.
 - **[SMS Spam Classifier](https://github.com/sumitkudale21/sms-spam-classification-project):** Created a machine learning model to classify SMS messages as spam or ham. Tools used: Python, Scikit-Learn, NLTK, Pandas.
 - **[Mobile Price Prediction](https://github.com/sumitkudale21/Mobile-Phone-Price-Prediction):** Developed a machine learning model to predict mobile phone prices based on various features. Tools used: Python, Scikit-Learn, Streamlit.
 - **[Image Classification with Deep Learning](https://github.com/sumitkudale21/kidney-classification):** Implemented a CNN model for image classification and deployed it using Streamlit. Tools used: Python, TensorFlow, Keras, Streamlit.
